@@ -4,8 +4,12 @@
     "description": "Sometimes I have a hard time inventing user data to make presentations, tests, experiments. I use this package to invent them...",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "echo \"Error: no test specified\" && exit 1"
 
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aramxD/randon-user-spanish-package.git"
     },
     "keywords": [
         "packages",
@@ -15,6 +19,10 @@
     ],
     "author": "julio santacruz <aram.jsh1@gmail.com>",
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/aramxD/randon-user-spanish-package/issues"
+    },
+    "homepage": "https://github.com/aramxD/randon-user-spanish-package#readme",
     "bin": {
         "random-user": "./bin/global.js"
     },
