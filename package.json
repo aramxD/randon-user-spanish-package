@@ -1,20 +1,23 @@
 {
-    "name": "random-user",
+    "name": "random-user-spanish",
     "version": "1.0.0",
-    "description": "",
+    "description": "Sometimes I have a hard time inventing user data to make presentations, tests, experiments. I use this package to invent them...",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+
     },
     "keywords": [
         "packages",
-        "random",
-        "user"
+        "random", "user creator spanish", "user data creator in spanish"
+
+
     ],
     "author": "julio santacruz <aram.jsh1@gmail.com>",
     "license": "MIT",
     "bin": {
-        "random-male-user": "./bin/global.js"
+        "random-user": "./bin/global.js"
     },
     "preferGlobal": true
+
 }
