@@ -13,7 +13,7 @@ npm install -g randon-user-spanish-package
 # Usage
 
 ```bash
-funny-commit
+random-user
 ```
 
 # Contributing
